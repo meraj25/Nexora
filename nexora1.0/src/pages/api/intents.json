@@ -1,0 +1,22 @@
+[
+  {
+    "tag": "class_schedule",
+    "keywords": ["class", "schedule", "next class"],
+    "response": "{dynamic_schedule}"
+  },
+  {
+    "tag": "cafeteria_menu",
+    "keywords": ["menu", "lunch", "cafeteria"],
+    "response": "{dynamic_menu}"
+  },
+  {
+    "tag": "bus_schedule",
+    "keywords": ["bus", "bus time", "bus schedule"],
+    "response": "{dynamic_bus}"
+  },
+  {
+    "tag": "events",
+    "keywords": ["event", "events", "next event"],
+    "response": "{dynamic_event}"
+  }
+]
